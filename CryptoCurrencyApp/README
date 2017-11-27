@@ -1,2 +1,11 @@
 Cryptocurrency app developed following the tutorial from Indrek Lasn.
 https://medium.com/react-native-training/bitcoin-ripple-ethereum-price-checker-with-react-native-redux-e9d076037092
+
+
+To run application with react dev tools: 
+	1: Clone the repo 
+	2: $ npm install
+	3: Start your emulator (android or ios)
+	4: $ npm postinstall (injects the development server in localhost port 5678)
+	5: $ npm run start (start your development server)
+	6: $ react-native run-android (launches the application in your emulator)
