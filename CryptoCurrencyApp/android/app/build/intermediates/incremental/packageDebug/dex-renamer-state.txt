@@ -1,0 +1,4 @@
+#Mon Nov 27 13:39:55 CET 2017
+base.0=/home/zfinx/learning/react/native/project10/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/zfinx/learning/react/native/project10/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

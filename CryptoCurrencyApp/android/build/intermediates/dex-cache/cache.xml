@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_286f447bf9f8ed9db5e69b19e5f2bc3852a41d18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a319643eeb0c47937b65f38ca8a090abae609924.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_aacaf1643c5d00dd71527c56be130357d64b7451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_a14a5e48f51656fffa7c9cc907464fd2c3a477e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f768861356f4cd8613da447181fd15c3f584f52d">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.4_4a3863deac7169c06d911d98d4c286062d54d511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_90724415e735eb6059d3055163e4fa0b82ba8f96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_5ed665ded8b9df3cb721f9132d7ea1206ed76863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_27e5eb1181bde28e2984590213ca304677b25382.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_5f8fcda8cda6b987afa6e1b583bb75fd2266404e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_71b87eb5ede101551113b62b70cd9c09d6002c5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_7fd0ffb8972de5be3e8c7608c6a183919d259932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_ebd80d605e191ac09f07943ef0bed91e67c9905c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_d34036e598429342e6ff4a86b7f8fca0cca3172a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_321ed10d1ea18fddb50d5c68fb3e2716d6262c7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_18fe1b9b427dbed8b1cccbc560482689fbd8138d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_cfe501fd47cbfbadde663f14ca9f62c2856b9b7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_9b3122e9c2949a19a98f92db129cd68b5747c743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_5c9defb812d04f041eadeec63142e2d896d379b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_079889eba4ddc5a20abeb8ba8603834dcb544fe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_67d515d0563b6be3c7a78a25335a9f8b551dc0f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/zfinx/learning/react/native/project10/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_c9bca8a4334d2654b0bd2c1c5f7a99a59e647c44.jar" />
+    </item>
+
+</items>
