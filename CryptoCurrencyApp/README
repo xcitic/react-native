@@ -1,6 +1,11 @@
 Cryptocurrency app developed following the tutorial from Indrek Lasn.
 https://medium.com/react-native-training/bitcoin-ripple-ethereum-price-checker-with-react-native-redux-e9d076037092
 
+This application uses react-native and axios to fetch cryptocurrency data from the API https://api.coinmarketcap.com
+The data is displayed in a nicely styled application that runs on iphone and android. 
+
+Uses redux for state management.
+
 
 To run application with react dev tools: 
 	1: Clone the repo 
