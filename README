@@ -21,7 +21,11 @@ To run application with react dev tools:
 
 
 --> ToDoApp
+Add notes and list view of notes with react native. Notes can be deleted too.
 
+
+--> MarsAttackApp
+A simple game where you are a Martian and have to flee from Trump. Tracks score and animates movement.
 
 
 Not finished:
