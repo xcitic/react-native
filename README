@@ -1,32 +1,21 @@
 Completed projects:
 
---> CryptoCurrencyApp
+======>  CryptoCurrencyApp  <======
 Cryptocurrency app developed following the tutorial from Indrek Lasn.
 https://medium.com/react-native-training/bitcoin-ripple-ethereum-price-checker-with-react-native-redux-e9d076037092
 
 This application uses react-native and axios to fetch cryptocurrency data from the API https://api.coinmarketcap.com
 The data is displayed in a nicely styled application that runs on iphone and android.
 
-Uses redux for state management.
-
-
-To run application with react dev tools:
-  1: Clone the repo
-  2: $ npm install
-  3: Start your emulator (android or ios)
-  4: $ npm postinstall (injects the development server in localhost port 5678)
-  5: $ npm run start (start your development server)
-  6: $ react-native run-android (launches the application in your emulator)
-
-
-
---> ToDoApp
+======>  ToDoApp  <======
 Add notes and list view of notes with react native. Notes can be deleted too.
 
 
---> MarsAttackApp
+======>  MarsAttackApp  <======
 A simple game where you are a Martian and have to flee from Trump. Tracks score and animates movement.
 
+
+======> Songify Login And Signup  <======
 
 Not finished:
 --> ChatApp
